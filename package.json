@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "keywords": [
-    "divjoy"
+    "React",
+    "Material-ui"
   ],
   "dependencies": {
     "react": "17.0.2",
